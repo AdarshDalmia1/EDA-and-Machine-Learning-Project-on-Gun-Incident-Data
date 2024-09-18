@@ -40,6 +40,5 @@ Gun-related incidents are a significant public concern. This project aims to ana
 -  Matplotlib & Seaborn: For data visualization.
 -  Scikit-learn: For building and evaluating machine learning models.
 -  Jupyter Notebook: For interactive data analysis and documentation.
--  
 # Conclusion
 This project provides valuable insights into gun-related incidents and demonstrates how machine learning can be applied to predict and analyze such events. The results can help in understanding the factors influencing gun incidents and in making informed decisions to address this issue.
